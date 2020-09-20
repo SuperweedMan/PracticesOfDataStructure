@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/PracticeOfDataStructure.dir/main.cpp.o  -o PracticeOfDataStructure 

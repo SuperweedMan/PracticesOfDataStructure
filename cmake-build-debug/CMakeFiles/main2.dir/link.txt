@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/main2.dir/lib/main2.cpp.o  -o main2 
